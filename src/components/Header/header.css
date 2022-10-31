@@ -1,0 +1,16 @@
+.header {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 1rem;
+    margin-right: 1rem;
+}
+
+.menu > svg {
+    width: 1.5rem;
+    height: 1.5rem;
+}
+
+.user-logo {
+    border-radius: 10px;
+}
