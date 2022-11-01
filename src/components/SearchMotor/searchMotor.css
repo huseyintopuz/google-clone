@@ -1,0 +1,54 @@
+.search-motor {
+    display: flex;
+    align-items: center;
+    margin: 2rem auto;
+    border: 1px solid #dfe1e5;
+    border-radius: 9999px;
+    max-width: 584px;
+    padding: 5px 8px 5px 22.4px;
+}
+
+.search-motor:hover {
+    box-shadow: 0 1px 6px rgb(32 33 36 / 28%);
+}
+
+.input {
+    width: 403px;
+    height: 34px;
+    border: white;
+    margin: 0 0.7rem;
+}
+
+.input:focus {
+    border: white;
+}
+
+.search-icon {
+    width: 1.5rem;
+    height: 1.5rem;
+    fill: currentColor;
+    color: grey;
+}
+
+.icons {
+    display: flex;
+    align-items: center;
+    gap: 1.4rem;
+}
+
+.keyboard {
+    height: 12px;
+    cursor: pointer;
+}
+
+.voice {
+    width: 1.5rem;
+    height: 1.5rem;
+    cursor: pointer;
+}
+
+.photo {
+    width: 1.5rem;
+    height: 1.5rem;
+    cursor: pointer;
+}
