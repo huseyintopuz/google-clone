@@ -5,7 +5,7 @@ const Country = () => {
     return (
         <div>
             <div className='country'>Türkiye</div>
-            <hr />
+            <hr className='line '/>
         </div>
     )
 }

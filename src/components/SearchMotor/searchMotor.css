@@ -20,7 +20,7 @@
 }
 
 .input:focus {
-    border: white;
+    outline: none;
 }
 
 .search-icon {
